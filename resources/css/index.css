@@ -134,7 +134,8 @@ text-align: center;
 padding-left: 1em;
 align-items: center;
 height: 6em;
-padding: 1em 1em;}
+padding: 1.5em 1em;
+width: 90%}
 
 .tag-archive {font-weight: 100;}
 
@@ -287,12 +288,13 @@ margin: auto;}
 color: black;
 border: 0.5px solid black;
 font-weight: 300;
-font-size: 0.75em;
+font-size: 0.5em;
 padding: 0.25em  0.25em;
 }
 
 .tag-text a:hover {background-color:  rgb(24, 212, 188);
-font-size: 1em;}
+font-size: 1em;
+}
 
 /* Media queries */
 /* Media queries */
