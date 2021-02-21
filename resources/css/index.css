@@ -209,10 +209,6 @@ margin: auto;
 @media only screen and (min-width: 1200px) {.tags-text {font-size: 1em;}}
 
 
-
-
-
-
 /* Tags content end */
 
 /* Page of start */
@@ -401,3 +397,11 @@ color: white;}
 .fa-envelope {background-color: gray;
 color: white;
 margin-bottom: 1em;}
+
+/* images in cycle */
+
+.article .cycle {float: left;
+width: 40%;}
+
+.article .cycle2 {float: right;
+width: 30%;}
