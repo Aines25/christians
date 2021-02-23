@@ -351,6 +351,7 @@ font-weight: 300;}
 .article .about {float: left;
 width: 25%;}
 
+.champs {width: 70%;}
 /* Media queries */
 
 @media only screen and (max-width: 600px) {.article-container {width: 100%;}
@@ -405,3 +406,7 @@ width: 50%;}
 
 .article .cycle2 {float: right;
 width: 45%;}
+
+/* fig captions */
+
+figcaption {font-size: 0.65em;}
